@@ -1,0 +1,12 @@
+/* universal CSS*/
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.header {
+  background-color: yellow;
+  padding: 20px;
+  text-align: center;
+}
